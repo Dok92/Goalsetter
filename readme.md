@@ -2,10 +2,6 @@
 
 This is the goalsetter app from the [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
 
-## Demo
-
-https://traversy-mern-2022.herokuapp.com/
-
 ## Usage
 
 Rename the .envexample to .env and add your MONGO_URI
